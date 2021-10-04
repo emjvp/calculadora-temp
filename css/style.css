@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+label,
+button {
+    font-weight: bold;
+}
+
+.calculator {
+    border: 1px solid salmon;
+}
